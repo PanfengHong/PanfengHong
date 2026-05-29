@@ -1,4 +1,6 @@
-## About me 👋
+## About me
+
+我是一名 Web 前端工程师，长期深耕于B端办公协同软件。
 
 <!--
 **PanfengHong/PanfengHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
